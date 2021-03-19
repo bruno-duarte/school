@@ -1,0 +1,17 @@
+__pycache__
+
+*.*~
+
+*.pyc
+
+.env
+
+.idea
+
+db.sqlite3
+
+pyvenv.cfg
+
+school/__pycache__
+school/grades/__pycache__
+school/grades/migrations/__pycache__
